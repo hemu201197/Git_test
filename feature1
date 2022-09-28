@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This is a change for rebase
 In the feature branch
 Let's test the git stash command
+=======
+These are the changes made 
+
+Changed in VS code
+>>>>>>> 0bac7fb6b2ab243fb247aa6459035b90d06ba33b
