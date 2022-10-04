@@ -1,0 +1,45 @@
+[33me0ec635[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m Added test file
+[33mf695606[m[33m ([m[1;31mmaster/main[m[33m)[m Merge pull request #8 from hemu201197/feature
+[33ma609668[m Testing log master ...foo
+[33m4c5b5ac[m Another ssh key
+[33m2c68db5[m Testing the ssh
+[33m26b3cb1[m Merge pull request #7 from hemu201197/bugfixes
+[33mad07cb7[m[33m ([m[1;31mmaster/bugfixes[m[33m)[m Added stability features
+[33m3c25aba[m Added 2 bug fixes
+[33m7fbcee2[m Added f1,f2 and the restore
+[33mcf224bf[m Changed so many
+[33m0bac7fb[m IntelliJ
+[33mf4c7e87[m Test
+[33mc235e49[m[33m ([m[1;33mtag: Hemu_app1.0[m[33m)[m Merge branch 'release/1.0' into main
+[33mcb5a6bd[m US changes
+[33m82aeb20[m done
+[33ma11408b[m Merge branch 'main' of https://github.com/hemu201197/Git_test into main
+[33mb126a37[m Added some more details
+[33m6472738[m Added feat 1 and feat 2
+[33mf0d967a[m[33m ([m[1;33mtag: v1.0[m[33m)[m Rebase test
+[33m8eaefc1[m Merge pull request #6 from hemu201197/test
+[33m1f07155[m[33m ([m[1;31mmaster/test[m[33m)[m Added 2 features
+[33mae3cbad[m Merge pull request #5 from hemu201197/test
+[33m8d128e6[m Create hemanth
+[33m0b99e18[m New user story
+[33m1edbe3f[m USer story changes made in the main branch
+[33m3e0fb8b[m Merge pull request #4 from hemu201197/test
+[33m1c4fe34[m To test the push delete command
+[33mc9ceab8[m Merge pull request #3 from hemu201197/feature
+[33m27f90f0[m Added new features
+[33m9d1a8fc[m Merge pull request #2 from hemu201197/feature
+[33m97e2902[m Merge pull request #1 from hemu201197/defect
+[33m87448e1[m Added defect
+[33m7ae0369[m Added new features
+[33mcee38ac[m Added 4.java
+[33me246861[m Removed the hem directory
+[33mc013966[m Added a directory
+[33m7532546[m Added .txt to git ignore
+[33me91efd5[m Added git ignore
+[33m0c1e2bc[m This is for small irrelevant changes
+[33mdbbe1f2[m This is after removing the global settings
+[33ma3af8f1[m This is after removing the local config
+[33m4e446a2[m This is to test all 3 config settings
+[33mbe827d4[m This is to test config
+[33mddae52a[m This is my second commit with 2.java
+[33m3528a48[m This is my first commit with 1.java
